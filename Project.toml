@@ -1,0 +1,9 @@
+name = "ResonantUltrasoundSpectroscopy"
+uuid = "b4f9e1a9-8d31-44ae-85e6-f655fa7056d5"
+authors = ["Santiago Henao Castellanos <s.henao.castellanos@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
